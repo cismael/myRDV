@@ -3,7 +3,7 @@
 2- use nodejs prompt and go to the folder of the project (myRDV)
  - install angular cli (https://cli.angular.io/) 
  - create the front-end app (ng new front-end)
-3- execute "ng ser --o" to verify if everything is ok
+3- execute "ng serve --o" to verify if everything is ok
 4- ...
 
 ### For the back-end
